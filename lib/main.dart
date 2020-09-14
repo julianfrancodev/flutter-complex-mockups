@@ -5,7 +5,7 @@ import 'package:flutter_designs/src/routes/routes.dart';
 void main(){
   runApp(MaterialApp(
     debugShowCheckedModeBanner: false,
-    initialRoute: '/',
+    initialRoute: '/buttons',
     routes: routes,
   ));
 }
